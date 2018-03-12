@@ -16,7 +16,7 @@ Mode          | (hybride)
 
 À la fin de cette leçon (session), vous serez en mesure de:
 
-- Rejoindre une classroom.github.com
+- Rejoindre la classroom https://classroom.github.com/a/UzwmP2n-
 - Pratiquez le processus GitHub à partir de la ligne de commande
 - Cloner un référentiel (repository) en utilisant `git clone`
 - Définir les configurations Git
@@ -45,11 +45,11 @@ http://concurrence.cofares.net/ConcurenceJava/ClientServeurMultiT/TPVersChating/
 
 Temps        | Sujet
 ---         | ---
-(15mn)| Verifié que tous les pré-requis OK
+(15mn)| Verifier que tous les pré-requis OK
 (10mn)| rejoindre la classroom
 (10mn)| faire un fork dans votre propre organisation
 (10mn)| cloner en local votre fork
-**(2h)**| **Faire les traveaux demandés par le TP (en Hybride)**
+**(2h)**| **Faire les travaux demandés par le TP (en Hybride)**
 (10mn)| Faire push dans votre fork
 (10mn)| Faire pullrequest dans le projet de la classroom
 (5mn)| avertir l'enseignant dans le projet de base de l'enseignant ([ici](https://github.com/clpf2018/2018-accov-tp0/issues))
